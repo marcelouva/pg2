@@ -11,7 +11,7 @@
   <properties>
     <activejdbc.version>1.4.13.j7</activejdbc.version>
     <environments>development.test,development</environments>
-    <project.basedir>/Users/franco/unrc/Materias/Disenio/2017/trivia-app</project.basedir>
+    <project.basedir>/home/chavo/Documentos/universidad/materia/proyecto_ayds_2017/pregunta2/</project.basedir>
   </properties>
 
   <build>
@@ -106,6 +106,36 @@
       <artifactId>mysql-connector-java</artifactId>
       <version>5.1.6</version>
     </dependency>
+
+
+
+
+ <dependency>
+       <groupId>org.slf4j</groupId>
+       <artifactId>slf4j-api</artifactId>
+       <version>1.7.5</version>
+   </dependency>
+   <dependency>
+       <groupId>org.slf4j</groupId>
+       <artifactId>slf4j-log4j12</artifactId>
+       <version>1.7.5</version>
+   </dependency>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   </dependencies>
 
 </project>
